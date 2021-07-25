@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "descricao": "Notebook Gamer Aspire Nitro 5, Intel Core I5 - 9300H",
+        "preco": 5000,
+        "quantidadeDisponivel": 5,
+        "foto": "https://images2.kabum.com.br/produtos/fotos/113442/notebook-gamer-acer-aspire-nitro-5-intel-core-i5-8gb-1tb-ssd-128gb-nvidia-gtx-1650-windows-10-an515-54-528v_1591101298_gg.jpg"
+    },
+    {
+        "id": 2,
+        "descricao": "Ultrabook XPG Xenia XE Gaming 15.6\", Intel Core i5 1135G7",
+        "preco": 8499.99,
+        "quantidadeDisponivel": 5,
+        "foto": "https://images5.kabum.com.br/produtos/fotos/148805/ultrabook-xpg-xenia-xe-gaming-15-6-intel-core-i5-1135g7-8gb-ssd-1tb-iris-xe-touch-glass-amazon-alexa-xeniaxe15ti5g11gxelx-sgcus_1615228458_gg.jpg"
+    },
+    {
+        "id": 3,
+        "descricao": "PC Gamer Concórdia Intel Core i3-9100F",
+        "preco": 5199.99,
+        "quantidadeDisponivel": 5,
+        "foto": "https://images5.kabum.com.br/produtos/fotos/164915/pc-gamer-concordia-glass-intel-core-i3-9100f-8gb-ddr4-ssd-240gb-rx-550-4gb-fonte-500w-linux-40553_1624474135_gg.jpg"
+    },
+    {
+        "id": 4,
+        "descricao": "iPhone 12 Pro Prata, 128GB - MGML3BZ/A",
+        "preco": 7000,
+        "quantidadeDisponivel": 5,
+        "foto": "https://images6.kabum.com.br/produtos/fotos/131126/iphone-12-pro-prata-128gb-mgml3bz-a_1605101394_gg.jpg"
+    },
+    {
+        "id": 5,
+        "descricao": "Console Playstation 5 Ps5 Sony Branco Disc Version",
+        "preco": 7419.99,
+        "quantidadeDisponivel": 5,
+        "foto": "https://images7.kabum.com.br/produtos/fotos/sync_mirakl/173977/Console-Playstation-5-Ps5-Sony-Branco-Disc-Version_1625063236_gg.jpg"
+    },
+    {
+        "id": 6,
+        "descricao": "Monitor Gamer LED Ozone 24.5\" Full HD",
+        "preco": 1600,
+        "quantidadeDisponivel": 5,
+        "foto": "https://images9.kabum.com.br/produtos/fotos/114349/monitor-gamer-led-ozone-24-5-pro-full-hd-hdmi-displayport-144hz-1ms-altura-ajustavel-ozdsp25pro_1610377706_gg.jpg"
+    },
+    {
+        "id": 7,
+        "descricao": "Notebook Gamer Lenovo Gaming 3i Intel Core i5-10300H",
+        "preco": 4900,
+        "quantidadeDisponivel": 5,
+        "foto": "https://images9.kabum.com.br/produtos/fotos/156929/notebook-gamer-lenovo-gaming-3i-intel-core-i5-10300h-gtx-1650-4gb-8gb-ram-256gb-ssd-linux-16-9-widescreen-chameleon-blue-82cgs00100_1624476897_gg.jpg"
+    },
+    {
+        "id": 8,
+        "descricao": "Smart TV 43\" Full HD LG - 43LM6300PSB",
+        "preco": 1800,
+        "quantidadeDisponivel": 5,
+        "foto": "https://images6.kabum.com.br/produtos/fotos/113736/smart-tv-43-full-hd-lg-conversor-digital-3-hdmi-2-usb-wi-fi-bluetooth-hdr-thinq-ai-43lm6300psb_1591735740_gg.jpg"
+    },
+    {
+        "id": 9,
+        "descricao": "Notebook Acer Aspire 5 Intel Core i5-1035G1",
+        "preco": 3699.99,
+        "quantidadeDisponivel": 5,
+        "foto": "https://images9.kabum.com.br/produtos/fotos/156099/notebook-acer-aspire-5-intel-i5-1035g1-8gb-256gb-ssd-geforce-mx-350-2gb-15-6-hd-1366x768-windows-10-home-prata-a515-55g-51hj_1619635127_gg.jpg"
+    },
+    {
+        "id": 10,
+        "descricao": "Mouse Gamer Redragon Cobra, 10000DPI, Chroma, Preto - M711",
+        "preco": 99.99,
+        "quantidadeDisponivel": 5,
+        "foto": "https://images5.kabum.com.br/produtos/fotos/94555/94555_1516707116_index_gg.jpg"
+    },
+    {
+        "id": 11,
+        "descricao": "Headset Gamer HyperX Cloud Stinger - HX-HSCSX-BK/WW",
+        "preco": 299.99,
+        "quantidadeDisponivel": 5,
+        "foto": "https://images8.kabum.com.br/produtos/fotos/105008/headset-gamer-hyperx-cloudx-stinger-xbox-preto-hx-hscsx-bk-ww_headset-gamer-hyperx-cloudx-stinger-xbox-preto-hx-hscsx-bk-ww_1571248103_gg.jpg"
+    },
+    {
+        "id": 12,
+        "descricao": "Monitor Gamer LED Asus 24\" - VG248QG",
+        "preco": 1449.99,
+        "quantidadeDisponivel": 5,
+        "foto": "https://images5.kabum.com.br/produtos/fotos/103165/monitor-gamer-led-asus-24-full-hd-hdmi-dvi-d-display-port-gsync-165-hz-0-5-ms-vg248qg_1594213093_gg.jpg"
+    }       
+]
