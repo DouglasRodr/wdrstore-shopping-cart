@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="WDRStore" title="#WDRStore Shopping Cart" src="./img/banner.png" />
+    <img alt="WDRStore" title="#WDRStore Shopping Cart" src="./public/banner.png" />
 </h1>
 <h1 align="center">
     WDRStore - Shopping Cart
